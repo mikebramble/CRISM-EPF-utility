@@ -1,3 +1,4 @@
-# CRISM-EPF-utility
-Codes used to process and analyze CRISM EPF measurements.
-These codes are to replace the original versions in the CRISM CAT_ENVI folders.
+# CRISM-MATLAB-utilities
+A suite of MATLAB tools for the ingestion, processing, and display of hyperspectral data from the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM).
+
+More to come.

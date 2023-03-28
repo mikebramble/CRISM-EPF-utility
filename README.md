@@ -10,6 +10,10 @@ Below are descriptions of the scripts in this repository and explanations of how
 
 A MATLAB function to ingest PDS LBL file data into a structure of varaibles and parameters.
 
+## script_subset_crism_image
+
+A MATLAB function to perform a spatil subset of a CRISM image and export it to and IMG file with HDR header file.
+
 ## SCRIPT_NAME
 
 Description.

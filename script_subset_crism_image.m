@@ -1,5 +1,5 @@
 % Code written by: Mike Bramble | michael.s.bramble@jpl.nasa.gov
-% script to spatil subset CRISM image
+% script to spatial subset CRISM image
 % 20230328 - initial version
 
 %% FILENAME AND FILEPATH
